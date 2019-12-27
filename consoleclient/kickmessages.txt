@@ -1,0 +1,10 @@
+Connection has been lost
+
+Server is restarting
+
+Server is full
+
+Too Many people
+disconnected
+You have been kicked for afking more than 15 minutes 
+

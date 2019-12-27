@@ -1,0 +1,3 @@
+send /demonic
+wait 5
+script chatbot
